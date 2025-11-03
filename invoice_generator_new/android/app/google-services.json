@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368114300143",
+    "project_id": "invoice-generator-app-419c6",
+    "storage_bucket": "invoice-generator-app-419c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368114300143:android:1d027258fa7b1c2481971a",
+        "android_client_info": {
+          "package_name": "com.example.invoice_generator_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmh0IozpXFpSJlFmabrFudxyFXIxg-x2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
